@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @ChristoferCode
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @ChristoferCode
+-
 
-<!---
-ChristoferCode/ChristoferCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+👀 I’m interested in web design with HTML, CSS and Javascript.
+
+🌱 I’m currently studying at Mid Sweden University to become a web developer.
+
+💞️ I’m looking to collaborate on:
+  - mobile apps
+  - websites
+  
+📫 Feel free to reach out to me at chha2401@student.miun.se
+
+#### /Christofer Hansson
