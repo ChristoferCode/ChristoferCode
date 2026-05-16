@@ -11,6 +11,6 @@
   - mobile apps
   
   
-📫 Feel free to reach out to me at chha2401@student.miun.se
+📫 Feel free to reach out to me!
 
 #### /Christofer Hansson
